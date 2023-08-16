@@ -1,0 +1,107 @@
+{
+  "Wool": {
+    "season": "Cold",
+    "breathable": "no",
+    "irritation": "yes",
+    "cost": "$$",
+    "sustainable": "no"
+  },
+  "Silk": {
+    "season": "Cold",
+    "breathable": "no",
+    "irritation": "no",
+    "cost": "$$$",
+    "sustainable": "no"
+  },
+  "Cashmere": {
+    "season": "Cold",
+    "breathable": "no",
+    "irritation": "no",
+    "cost": "$$$",
+    "sustainable": "no"
+  },
+  "Mohair": {
+    "season": "Cold",
+    "breathable": "no",
+    "irritation": "yes",
+    "cost": "$$$",
+    "sustainable": "no"
+  },
+  "Alpaca": {
+    "season": "Cold",
+    "breathable": "no",
+    "irritation": "yes",
+    "cost": "$$$",
+    "sustainable": "no"
+  },
+  "Merino Wool": {
+    "season": "Cold",
+    "breathable": "no",
+    "irritation": "yes",
+    "cost": "$$$",
+    "sustainable": "no"
+  },
+  "Cotton": {
+    "season": "Warm",
+    "breathable": "yes",
+    "irritation": "no",
+    "cost": "$$",
+    "sustainable": "yes"
+  },
+  "Rayon": {
+    "season": "Warm",
+    "breathable": "yes",
+    "irritation": "yes",
+    "cost": "$ / $$",
+    "sustainable": "no"
+  },
+  "Lyocell": {
+    "season": "Warm",
+    "breathable": "yes",
+    "irritation": "no",
+    "cost": "$$",
+    "sustainable": "no"
+  },
+  "Linen": {
+    "season": "Warm",
+    "breathable": "yes",
+    "irritation": "no",
+    "cost": "$$$",
+    "sustainable": "no"
+  },
+  "Modal": {
+    "season": "Warm",
+    "breathable": "yes",
+    "irritation": "no",
+    "cost": "$$",
+    "sustainable": "no"
+  },
+  "Acrylic": {
+    "season": "Cold, Warm",
+    "breathable": "no",
+    "irritation": "yes",
+    "cost": "$",
+    "sustainable": "no"
+  },
+  "Polyester": {
+    "season": "Cold, Warm",
+    "breathable": "no",
+    "irritation": "yes",
+    "cost": "$",
+    "sustainable": "no"
+  },
+  "Nylon": {
+    "season": "Cold, Warm",
+    "breathable": "no",
+    "irritation": "yes",
+    "cost": "$",
+    "sustainable": "no"
+  },
+  "Elastane": {
+    "season": "Cold, Warm",
+    "breathable": "no",
+    "irritation": "yes",
+    "cost": "$",
+    "sustainable": "no"
+  }
+}
